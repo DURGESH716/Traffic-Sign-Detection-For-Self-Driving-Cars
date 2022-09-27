@@ -16,7 +16,7 @@ Sophisticated software then processes all this sensory input, plots a path, and 
 2) Cut transportation costs by 40% (in terms of vehicles, fuel, and infrastructure)
 3) Improve walkability and livability
 4) Free up parking lots for other uses (schools, parks, community centers)
-5) Reduce urban CO2 emissions by 80% worldwide 
+5) Reduce urban CO2 emissions by 80% world-wide 
 
 <p align="left"> <img src="https://www.udacity.com/blog/wp-content/uploads/2021/03/AdobeStock_221128268-scaled.jpeg" height="350px" /> </p>
 
